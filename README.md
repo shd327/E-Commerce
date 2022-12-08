@@ -40,7 +40,9 @@ THEN I am able to successfully create, update, and delete data in my database
 7. [ Questions. ](#questions)
 9. [ Links. ](#links)
 10. [ Resources. ](#resources)
+11. 
 ## Installation
+
 * Clone the repository using:
 ```
 git@github.com:shd327/E-Commerce.git
@@ -73,6 +75,7 @@ npm install dotenv
 ```
 
 ## Usage
+
 * Ensure all depencies and above steps are fulfilled 
 * Navigate to the working directory and open a terminal and run the below command
 ```
@@ -89,6 +92,7 @@ npm run watch
 ```
 
 ## License
+
 MIT License
 
 Copyright (c) 2022 Siddharth Desai
@@ -112,13 +116,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
+
 N/A
-
-## Questions?
-Want to see more of my work? [Github Link](https://github.com/SHD327)
-<br/>
-Want to learn more please contact me at shdesai327@gmail.com
-
 
 ## Screenshots
 
@@ -135,9 +134,20 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 ![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
 
 
+## Questions?
+
+Want to see more of my work? [Github Link](https://github.com/SHD327)
+<br/>
+Want to learn more please contact me at shdesai327@gmail.com
+
+
 ## Links
 
 * [Github Link](https://github.com/shd327/E-Commerce)
-* [Video Link](https://drive.google.com/file/d/1xuPMOcfrZPEHOBwbZTY_FM-BRVEWMwyX/view?usp=share_link) 
+* [Video Link](https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=sharing) 
 
 ## Resources
+
+* https://www.npmjs.com/package/mysql2
+* https://www.npmjs.com/package/sequelize
+* https://www.npmjs.com/package/dotenv
