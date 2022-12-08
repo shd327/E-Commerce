@@ -43,7 +43,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 * Clone the repository using:
 ```
-git clone git@github.com:SHD327/E-Commerce.git
+git@github.com:shd327/E-Commerce.git
 ```
 * Ensure you are in the current working directory
 * Ensure all dependencies are installed as shown below installation instructions are below:
@@ -97,8 +97,6 @@ Want to see more of my work? [Github Link](https://github.com/SHD327)
 <br/>
 Want to learn more please contact me at shdesai327@gmail.com
 
-## Video
-
 
 ## Screenshots
 
@@ -117,6 +115,7 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 ## Links
 
-
+* [Github Link](https://github.com/shd327/E-Commerce)
+* [Video Link](https://drive.google.com/file/d/1xuPMOcfrZPEHOBwbZTY_FM-BRVEWMwyX/view?usp=share_link) 
 
 ## Resources
