@@ -88,7 +88,7 @@ SOURCE schema.sql || SOURCE seeds.sql
 * Lastly run the seed to initialize the the database data and start the application with the following commands:
 ```
 npm run seed
-npm run watch
+npm start
 ```
 
 ## License
