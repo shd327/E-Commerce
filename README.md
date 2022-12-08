@@ -35,11 +35,11 @@ THEN I am able to successfully create, update, and delete data in my database
 2. [ Installation. ](#installation)
 3. [ Usage. ](#usage)
 4. [ License. ](#license)
-6. [ Tests. ](#tests)
-8. [ Screenshots. ](#screenshots)
+5. [ Tests. ](#tests)
+6. [ Screenshots. ](#screenshots)
 7. [ Questions. ](#questions)
-9. [ Links. ](#links)
-10. [ Resources. ](#resources)
+8. [ Links. ](#links)
+9. [ Resources. ](#resources)
 
 ## Installation
 
