@@ -20,7 +20,7 @@ Product.belongsToMany(Tag, {
   through: {
     model: ProductTag,
     unique: false,
-    // as: 'tag_to_product',
+
   },
 
 })
@@ -29,7 +29,7 @@ Tag.belongsToMany(Product, {
   through: {
     model: ProductTag,
     unique: false,
-    // as: 'tag_to_product'
+
   },
 
 
