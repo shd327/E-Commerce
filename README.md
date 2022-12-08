@@ -40,7 +40,7 @@ THEN I am able to successfully create, update, and delete data in my database
 7. [ Questions. ](#questions)
 9. [ Links. ](#links)
 10. [ Resources. ](#resources)
-11. 
+
 ## Installation
 
 * Clone the repository using:
