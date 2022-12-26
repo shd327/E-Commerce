@@ -2,7 +2,7 @@
 ### Siddharth Desai
 
 ## Description
-The purpose of this project was to complete a e-commerce sites backend processing using Express.js API, Sequelize, dotenv and Insomnia. The user is able to perform GET,POST,PUT and DELETE operation for categories, products and tags for their e-commerce company. The project increase my knowledge in handling CRUD operation as well as understanding how to work with express.js. Lastly, I learned how to test and valiate request using Insomnia 
+The purpose of this project was to complete a e-commerce sites backend processing using Express.js API, Sequelize, dotenv and Insomnia. The user is able to perform GET,POST,PUT and DELETE operation for categories, products and tags for their e-commerce company. 
 
 
 ## User Story
@@ -144,7 +144,7 @@ Want to learn more please contact me at shdesai327@gmail.com
 ## Links
 
 * [Github Link](https://github.com/shd327/E-Commerce)
-* [Video Link](https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=sharing) 
+* [Video Link](https://drive.google.com/file/d/1wk_xO7OA0oMyroguoVGGcipqEH84h1-2/view?usp=share_link) 
 
 ## Resources
 
