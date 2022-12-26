@@ -144,7 +144,7 @@ Want to learn more please contact me at shdesai327@gmail.com
 ## Links
 
 * [Github Link](https://github.com/shd327/E-Commerce)
-* [Video Link](https://drive.google.com/file/d/1P2nsGH4u6cVzVDSij4j_3Xr1-OAm9zXw/view?usp=sharing) 
+* [Video Link](https://drive.google.com/file/d/1wk_xO7OA0oMyroguoVGGcipqEH84h1-2/view?usp=share_link) 
 
 ## Resources
 
